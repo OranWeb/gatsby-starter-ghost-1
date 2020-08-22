@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://tornhub-site.herokuapp.com",
-    "contentApiKey": "f3af4cef989cf26f23ae03571b"
+    "apiUrl": "https://tornhubs.herokuapp.com",
+    "contentApiKey": "0a3b31fe353d57709186aa377a"
   },
   "production": {
-    "apiUrl": "https://tornhub-site.herokuapp.com",
+    "apiUrl": "https://tornhubs.herokuapp.com",
     "contentApiKey": "f3af4cef989cf26f23ae03571b"
   }
 }
