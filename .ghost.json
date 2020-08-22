@@ -5,6 +5,6 @@
   },
   "production": {
     "apiUrl": "https://tornhubs.herokuapp.com",
-    "contentApiKey": "f3af4cef989cf26f23ae03571b"
+    "contentApiKey": "0a3b31fe353d57709186aa377a"
   }
 }
